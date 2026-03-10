@@ -113,7 +113,7 @@ Example Response:
 {
   "success": true,
   "sector": "technology",
-  "report": "# Market Analysis Report\n\n## 📊 Sector Overview\n**Sector:** Technology\n**Analysis Date:** 2024-03-10 15:30:45 IST\n...",
+  "report": "# Market Analysis Report\n\n## Sector Overview\n**Sector:** Technology\n**Analysis Date:** 2024-03-10 15:30:45 IST\n...",
   "session_requests": 1,
   "timestamp": "2024-03-10T10:00:45.123456"
 }
