@@ -2,7 +2,7 @@ import requests
 
 def get_market_news(sector):
 
-    url = f"https://newsapi.org/v2/everything?q={sector}+india&apiKey=AIzaSyDiE0uzih_ef4dpx0w8hGfWwQqVYteg5Hs"
+    url = f"https://newsapi.org/v2/everything?q={sector}+india&apiKey=AIzaSyDKM0ER7NWjndvjD97y0wUyDgvka01d0zY"
 
     response = requests.get(url)
 
