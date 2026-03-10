@@ -1,8 +1,9 @@
 fastapi==0.104.0
 uvicorn[standard]==0.24.0
-google-api-python-client==2.93.0
+google-genai==0.0.20
 google-auth==2.22.0
 python-dotenv==1.0.0   # if you use .env files
 requests==2.31.0       # if your app calls APIs
+
 
 
