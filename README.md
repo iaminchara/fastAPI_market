@@ -66,11 +66,11 @@ pip install -r requirements.txt
 
 4. Configure environment variables
 
-# Copy the example environment file
+#Copy the example environment file
 cp .env.example .env
 
-# Edit .env file and add your Gemini API key
-# GEMINI_API_KEY=your_actual_gemini_api_key_here
+#Edit .env file and add your Gemini API key
+#GEMINI_API_KEY=your_actual_gemini_api_key_here
 
 5.Update API key (optional)
 
@@ -130,7 +130,6 @@ curl -X GET "http://localhost:8000/sectors" \
 GET /
 
 ## Sample Analysis Report
-
 The API generates comprehensive markdown reports including:
 
 Market Overview: Current market conditions and size
@@ -141,7 +140,6 @@ Trade Opportunities: Actionable trade recommendations
 Market Outlook: Short to medium term outlook
 
 ## Configuration
-
 Environment Variables:
 
 Variable					Description							Default
