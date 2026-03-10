@@ -45,7 +45,7 @@ Google Gemini API key (get one from Google AI Studio)
 
 ## Setup Steps
 
-1.Clone the repository
+ 1.Clone the repository
 
 git clone <repository-url>
 cd Api
@@ -64,7 +64,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-4. Configure environment variables
+4.Configure environment variables
 
 #Copy the example environment file
 cp .env.example .env
@@ -72,12 +72,12 @@ cp .env.example .env
 #Edit .env file and add your Gemini API key
 #GEMINI_API_KEY=your_actual_gemini_api_key_here
 
-5.Update API key (optional)
+ 5.Update API key (optional)
 
 Edit .env file to change the default API key from mysecretkey
 Or set API_KEY=your_custom_api_key in .env
 
-##  Running the Application
+## Running the Application
 
 1. Development Mode
    
